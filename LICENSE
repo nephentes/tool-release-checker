@@ -1,0 +1,36 @@
+relcheck (tool-release-checker) License
+
+Copyright (c) 2026 Nephentes. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this software and associated documentation files (the
+"Software") to:
+
+  1. Use the Software for any purpose, including commercial purposes, such as
+     running it locally or as part of a build or release pipeline.
+  2. Build the Software from its unmodified source code.
+  3. Copy and redistribute the Software, in source or compiled form, provided
+     that it is unmodified and that this license and the above copyright
+     notice are included with every copy.
+
+The following are NOT permitted without prior written permission from the
+copyright holder:
+
+  a. Modifying, adapting, translating, or creating derivative works based on
+     the Software or any part of its source code.
+  b. Distributing modified versions of the Software, or incorporating any part
+     of its source code into other software.
+  c. Selling the Software itself, or sublicensing it.
+  d. Removing or altering this license or the copyright notice.
+
+Bug reports and suggestions are welcome. Proposed changes may be submitted to
+the copyright holder for consideration; submitting them does not grant any
+right to use or distribute a modified version.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
